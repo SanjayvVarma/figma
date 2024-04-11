@@ -74,8 +74,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/figma-ts.git
-cd figma-ts
+git clone https://github.com/SanjayvVarma/figma
+cd figma
 ```
 
 **Installation**
