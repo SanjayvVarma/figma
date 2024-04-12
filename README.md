@@ -14,7 +14,7 @@
   <h3 align="center">Real Time Figma Clone</h3>
    <br />
 
-   Visit my project ![click here](https://figma-clone-sanjay.vercel.app)
+   Visit my project [click here](https://figma-clone-sanjay.vercel.app)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
