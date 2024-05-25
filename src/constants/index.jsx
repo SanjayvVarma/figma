@@ -51,6 +51,7 @@ export const shapeElements = [
     name: "Free Drawing",
     value: "freeform",
   },
+
 ];
 
 export const navElements = [
